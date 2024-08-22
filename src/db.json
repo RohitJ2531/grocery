@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageURL": "https://www.shutterstock.com/image-photo/red-apple-isolated-on-white-600nw-1727544364.jpg",
+      "productName": "Apple",
+      "category": "Fruits",
+      "price": "120",
+      "quantity": 0,
+      "description": "Fresh and juicy red apples, perfect for snacking and adding to salads."
+    },
+    {
+      "id": "2",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjVPkmoERnWC4Oz1vUAeYxANyX-QUS4ZCNkQ&s",
+      "productName": "Banana",
+      "category": "Fruits",
+      "price": "60",
+      "quantity": 1,
+      "description": "Ripe bananas rich in potassium and fiber, ideal for breakfast or snacks."
+    },
+    {
+      "id": "3",
+      "imageURL": "https://www.jiomart.com/images/product/original/590000091/tomato-country-1-kg-product-images-o590000091-p590000091-0-202203151014.jpg?im=Resize=(420,420)",
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "price": "30",
+      "quantity": 3,
+      "description": "Fresh and juicy tomatoes, perfect for cooking, salads, and sandwiches."
+    },
+    {
+      "id": "4",
+      "imageURL": "https://5.imimg.com/data5/SN/WE/MY-31565862/potatoes-500x500.jpg",
+      "productName": "Potato",
+      "category": "Vegetables",
+      "price": "25",
+      "quantity": 0,
+      "description": "Starchy and versatile potatoes, ideal for curries, fries, and mashes."
+    },
+    {
+      "id": "5",
+      "imageURL": "https://www.shutterstock.com/image-photo/red-whole-sliced-onion-isolated-260nw-1684863088.jpg",
+      "productName": "Onion",
+      "category": "Vegetables",
+      "price": "40",
+      "quantity": 231,
+      "description": "Fresh red onions, great for cooking, salads, and garnishing dishes."
+    },
+    {
+      "id": "6",
+      "imageURL": "https://img2.exportersindia.com/product_images/bc-full/dir_151/4515415/milk-1489734923-2762748.jpeg",
+      "productName": "Milk",
+      "category": "Dairy",
+      "price": "50",
+      "quantity": 561,
+      "description": "Pure and fresh cow milk, perfect for daily use in tea, coffee, or desserts."
+    },
+    {
+      "id": "7",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfiO7agvs5Xg3uKg-u0FIahDpYwib8Fj6giA&s",
+      "productName": "Eggs",
+      "category": "Dairy",
+      "price": "5",
+      "quantity": 781,
+      "description": "Fresh farm eggs, rich in protein, perfect for breakfast or baking."
+    },
+    {
+      "id": "8",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWH2ASpJeTk5KPLjKskr6VZ_Iwx9FW7JaFZQ&s",
+      "productName": "Paneer",
+      "category": "Dairy",
+      "price": "240",
+      "quantity": 981,
+      "description": "Fresh and soft paneer, a versatile dairy product used in a variety of dishes."
+    },
+    {
+      "id": "9",
+      "imageURL": "https://www.urbangroc.com/wp-content/uploads/2022/02/Basmati-Rice-Loose.jpg.webp",
+      "productName": "Basmati Rice",
+      "category": "Grains",
+      "price": "90",
+      "quantity": 451,
+      "description": "Long-grain aromatic Basmati rice, perfect for biryani, pulao, and fried rice."
+    },
+    {
+      "id": "10",
+      "imageURL": "https://daivikorganic.com/cdn/shop/products/4_3b7a5867-3758-4098-98bb-4eb444af492e_600x.png?v=1670564660",
+      "productName": "Wheat Flour",
+      "category": "Grains",
+      "price": "40",
+      "quantity": 221,
+      "description": "Whole wheat flour, ideal for making chapatis, bread, and other baked goods."
+    },
+    {
+      "id": "11",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5jQmu8r_dyaZJCFl-uFJfYIvW5iEv_OVqA&s",
+      "productName": "Sugar",
+      "category": "Grocery",
+      "price": "42",
+      "quantity": 111,
+      "description": "White refined sugar, essential for cooking, baking, and sweetening beverages."
+    },
+    {
+      "id": "12",
+      "imageURL": "https://www.bigbasket.com/media/uploads/p/l/40124985_7-tata-salt-rock-salt-pink.jpg",
+      "productName": "Salt",
+      "category": "Grocery",
+      "price": "18",
+      "quantity": 341,
+      "description": "Pink rock salt, full of minerals and perfect for cooking and seasoning."
+    },
+    {
+      "id": "13",
+      "imageURL": "https://5.imimg.com/data5/SELLER/Default/2023/4/303312790/IW/RU/CN/86539219/pink-lentil-dehusked-masoor-dal-.jpg",
+      "productName": "Dal (Lentils)",
+      "category": "Grocery",
+      "price": "85",
+      "quantity": 551,
+      "description": "Nutritious pink lentils (Masoor Dal), perfect for healthy soups and dals."
+    },
+    {
+      "id": "14",
+      "imageURL": "https://t3.ftcdn.net/jpg/03/06/27/38/360_F_306273814_YlSscyBG4h8JJDA7H38bkQGyU3y0xegL.jpg",
+      "productName": "Cooking Oil",
+      "category": "Grocery",
+      "price": "150",
+      "quantity": 61,
+      "description": "High-quality cooking oil, suitable for frying, cooking, and baking."
+    },
+    {
+      "id": "15",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmeU_4tobaQz6P3FNouoBmh2RARwI1EU-bw&s",
+      "productName": "Chips",
+      "category": "Snacks",
+      "price": "20",
+      "quantity": 11,
+      "description": "Crunchy and crispy potato chips, the perfect snack for any time."
+    },
+    {
+      "id": "16",
+      "imageURL": "https://qph.cf2.quoracdn.net/main-qimg-e3648fdf8f8de447da34a3ad1066481d-pjlq",
+      "productName": "Biscuits",
+      "category": "Snacks",
+      "price": "30",
+      "quantity": 31,
+      "description": "Delicious and crispy biscuits, ideal for tea-time snacks."
+    },
+    {
+      "id": "17",
+      "imageURL": "https://www.shutterstock.com/image-vector/indian-street-tea-glass-cup-260nw-2335456607.jpg",
+      "productName": "Tea",
+      "category": "Beverages",
+      "price": "150",
+      "quantity": 0,
+      "description": "Strong and flavorful Indian tea, perfect for refreshing morning and evening drinks."
+    },
+    {
+      "id": "18",
+      "imageURL": "https://www.shutterstock.com/image-photo/cup-coffee-latte-heart-shape-600nw-1568190193.jpg",
+      "productName": "Coffee",
+      "category": "Beverages",
+      "price": "300",
+      "quantity": 78,
+      "description": "Rich and aromatic coffee, providing a perfect start to your day."
+    },
+    {
+      "id": "19",
+      "imageURL": "https://www.bigbasket.com/media/uploads/p/l/20004724_11-pantene-advanced-hair-care-solution-shampoo-lively-clean.jpg",
+      "productName": "Shampoo",
+      "category": "Personal Care",
+      "price": "180",
+      "quantity": 9,
+      "description": "Refreshing shampoo, designed to keep your hair clean and healthy."
+    },
+    {
+      "id": "20",
+      "imageURL": "https://www.jiomart.com/images/product/original/490002184/colgate-max-fresh-peppermint-ice-blue-gel-toothpaste-150-g-product-images-o490002184-p490002184-0-202306061334.jpg?im=Resize=(420,420)",
+      "productName": "Toothpaste",
+      "category": "Personal Care",
+      "price": "75",
+      "quantity": 7879,
+      "description": "Refreshing toothpaste with peppermint flavor, for a clean and fresh mouth."
+    }
+  ],
+  "carts": []
+}
